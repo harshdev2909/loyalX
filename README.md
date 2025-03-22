@@ -24,16 +24,7 @@ git clone https://github.com/harshdev2909/loyalX.git
 cd loyalx
 npm install
 npm run dev
-🛠️ TODO:
-Integrate XION blockchain functionality
 
-Add Wallet login support
-
-Smart Contract connections (Loyalty Tokens, NFT Memberships, Swapping)
-
-Backend setup for data storage & analytics
-
-📄 License:
-MIT License
+📄 License:MIT License
 
 
