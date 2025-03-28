@@ -67,11 +67,11 @@ export default function SignupPage() {
                     <div className="grid grid-cols-2 gap-4">
                       <div className="space-y-2">
                         <Label htmlFor="first-name">First name</Label>
-                        <Input id="first-name" placeholder="John" required />
+                        <Input id="first-name" placeholder="Harsh" required />
                       </div>
                       <div className="space-y-2">
                         <Label htmlFor="last-name">Last name</Label>
-                        <Input id="last-name" placeholder="Doe" required />
+                        <Input id="last-name" placeholder="Shamra" required />
                       </div>
                     </div>
                     <div className="space-y-2">
@@ -101,11 +101,11 @@ export default function SignupPage() {
                   <form onSubmit={handleSignup} className="space-y-4">
                     <div className="space-y-2">
                       <Label htmlFor="brand-name">Brand name</Label>
-                      <Input id="brand-name" placeholder="Acme Inc." required />
+                      <Input id="brand-name" placeholder="Harsh Inc." required />
                     </div>
                     <div className="space-y-2">
                       <Label htmlFor="brand-email">Business email</Label>
-                      <Input id="brand-email" type="email" placeholder="contact@acme.com" required />
+                      <Input id="brand-email" type="email" placeholder="Harsh@acme.com" required />
                     </div>
                     <div className="space-y-2">
                       <Label htmlFor="brand-website">Website</Label>
